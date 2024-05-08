@@ -15,7 +15,7 @@
 科研方向：数据挖掘（智能教育，推荐系统）
 
 
-#科研经历：#
+# 科研经历： #
 
 - HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection
 
@@ -26,7 +26,8 @@
 
 暂未投稿
 
-#荣誉奖项：#
+# 荣誉奖项： #
+
 
         国家奖学金（三次） 
 
